@@ -1,5 +1,5 @@
 # HateOffensiveTweetsDetection
-This repository contain the code of HateOffensiveTweetsDetection using SVM, Naive Bayes, and Logistic Regression.
+This repository contain the code of HateOffensiveTweetsDetection using SVM, Naive Bayes, and Logistic Regression. And found out which model is the best.
 
 # Dataset
 Use labeled_data.csv as dataset.
